@@ -1,0 +1,24 @@
+= Dungeon Game - 2D
+
+== Spielinhalte
+* Charaktere (Schütze, Schwertkämpfer, Magier)
+* Mehrere Ebenen
+* Gegner (Boss, Nahkämpfer, Schützen)
+* Boss (Am Ende jeder Ebene)
+* Items (Bessere Schwerter, Rüstung, Heilung)
+* Charaktere (Skillen / leveln)
+* Münzen (Von Gegnern)
+* Shop (Items um Münzen)
+* Kisten mit Items und Münzen
+
+[plantuml]
+....
+@startuml
+interface Player{
+
+}
+
+
+
+@enduml
+....
